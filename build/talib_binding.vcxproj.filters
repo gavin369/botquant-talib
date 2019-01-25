@@ -1,0 +1,3694 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract\frames">
+      <UniqueIdentifier>{B0AF38D9-8A46-1380-87E9-A20F3F8871AE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract\tables">
+      <UniqueIdentifier>{9D93CFE0-181E-AD6C-BCC1-A42015352124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract\tables">
+      <UniqueIdentifier>{9D93CFE0-181E-AD6C-BCC1-A42015352124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract\tables">
+      <UniqueIdentifier>{9D93CFE0-181E-AD6C-BCC1-A42015352124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract\tables">
+      <UniqueIdentifier>{9D93CFE0-181E-AD6C-BCC1-A42015352124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract\tables">
+      <UniqueIdentifier>{9D93CFE0-181E-AD6C-BCC1-A42015352124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract\tables">
+      <UniqueIdentifier>{9D93CFE0-181E-AD6C-BCC1-A42015352124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract\tables">
+      <UniqueIdentifier>{9D93CFE0-181E-AD6C-BCC1-A42015352124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract\tables">
+      <UniqueIdentifier>{9D93CFE0-181E-AD6C-BCC1-A42015352124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract\tables">
+      <UniqueIdentifier>{9D93CFE0-181E-AD6C-BCC1-A42015352124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract\tables">
+      <UniqueIdentifier>{9D93CFE0-181E-AD6C-BCC1-A42015352124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract\tables">
+      <UniqueIdentifier>{9D93CFE0-181E-AD6C-BCC1-A42015352124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract\tables">
+      <UniqueIdentifier>{9D93CFE0-181E-AD6C-BCC1-A42015352124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract\tables">
+      <UniqueIdentifier>{9D93CFE0-181E-AD6C-BCC1-A42015352124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract\tables">
+      <UniqueIdentifier>{9D93CFE0-181E-AD6C-BCC1-A42015352124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract\tables">
+      <UniqueIdentifier>{9D93CFE0-181E-AD6C-BCC1-A42015352124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract\tables">
+      <UniqueIdentifier>{9D93CFE0-181E-AD6C-BCC1-A42015352124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract\tables">
+      <UniqueIdentifier>{9D93CFE0-181E-AD6C-BCC1-A42015352124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract\tables">
+      <UniqueIdentifier>{9D93CFE0-181E-AD6C-BCC1-A42015352124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract\tables">
+      <UniqueIdentifier>{9D93CFE0-181E-AD6C-BCC1-A42015352124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract\tables">
+      <UniqueIdentifier>{9D93CFE0-181E-AD6C-BCC1-A42015352124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract\tables">
+      <UniqueIdentifier>{9D93CFE0-181E-AD6C-BCC1-A42015352124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract\tables">
+      <UniqueIdentifier>{9D93CFE0-181E-AD6C-BCC1-A42015352124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract\tables">
+      <UniqueIdentifier>{9D93CFE0-181E-AD6C-BCC1-A42015352124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract\tables">
+      <UniqueIdentifier>{9D93CFE0-181E-AD6C-BCC1-A42015352124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract\tables">
+      <UniqueIdentifier>{9D93CFE0-181E-AD6C-BCC1-A42015352124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract">
+      <UniqueIdentifier>{A6B562C6-0846-EFF1-38EE-B8CCE25E12B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_abstract\tables">
+      <UniqueIdentifier>{9D93CFE0-181E-AD6C-BCC1-A42015352124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_common">
+      <UniqueIdentifier>{C9AB8CD7-B21F-8F71-D4DB-689067028B5A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_common">
+      <UniqueIdentifier>{C9AB8CD7-B21F-8F71-D4DB-689067028B5A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_common">
+      <UniqueIdentifier>{C9AB8CD7-B21F-8F71-D4DB-689067028B5A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib">
+      <UniqueIdentifier>{75C6FC5D-C758-9CD8-FDAF-6626D279C267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c">
+      <UniqueIdentifier>{CAE7F8DA-E845-16F7-E8EA-8DBDBBC6BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\ta-lib\c\src\ta_func">
+      <UniqueIdentifier>{7964A6A8-D7A7-6579-F19F-008785D172D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:">
+      <UniqueIdentifier>{7B735499-E5DD-1C2B-6C26-70023832A1CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Program Files">
+      <UniqueIdentifier>{92EF4BA8-6BC2-65D1-451F-28EBD4AE726A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Program Files\nodejs">
+      <UniqueIdentifier>{A3C8E949-BCF6-0C67-6656-340A2A097708}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Program Files\nodejs\node_modules">
+      <UniqueIdentifier>{56DF7A98-063D-FB9D-485C-089023B4C16A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Program Files\nodejs\node_modules\npm">
+      <UniqueIdentifier>{741E0E76-39B2-B1AB-9FA1-F1A20B16F295}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Program Files\nodejs\node_modules\npm\node_modules">
+      <UniqueIdentifier>{56DF7A98-063D-FB9D-485C-089023B4C16A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Program Files\nodejs\node_modules\npm\node_modules\node-gyp">
+      <UniqueIdentifier>{77348C0E-2034-7791-74D5-63C077DF5A3B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Program Files\nodejs\node_modules\npm\node_modules\node-gyp\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\frames\ta_frame.c">
+      <Filter>..\ta-lib\c\src\ta_abstract\frames</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\ta_abstract.c">
+      <Filter>..\ta-lib\c\src\ta_abstract</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\ta_def_ui.c">
+      <Filter>..\ta-lib\c\src\ta_abstract</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\ta_func_api.c">
+      <Filter>..\ta-lib\c\src\ta_abstract</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\ta_group_idx.c">
+      <Filter>..\ta-lib\c\src\ta_abstract</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\tables\table_a.c">
+      <Filter>..\ta-lib\c\src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\tables\table_b.c">
+      <Filter>..\ta-lib\c\src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\tables\table_c.c">
+      <Filter>..\ta-lib\c\src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\tables\table_d.c">
+      <Filter>..\ta-lib\c\src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\tables\table_e.c">
+      <Filter>..\ta-lib\c\src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\tables\table_f.c">
+      <Filter>..\ta-lib\c\src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\tables\table_g.c">
+      <Filter>..\ta-lib\c\src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\tables\table_h.c">
+      <Filter>..\ta-lib\c\src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\tables\table_i.c">
+      <Filter>..\ta-lib\c\src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\tables\table_j.c">
+      <Filter>..\ta-lib\c\src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\tables\table_k.c">
+      <Filter>..\ta-lib\c\src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\tables\table_l.c">
+      <Filter>..\ta-lib\c\src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\tables\table_m.c">
+      <Filter>..\ta-lib\c\src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\tables\table_n.c">
+      <Filter>..\ta-lib\c\src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\tables\table_o.c">
+      <Filter>..\ta-lib\c\src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\tables\table_p.c">
+      <Filter>..\ta-lib\c\src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\tables\table_q.c">
+      <Filter>..\ta-lib\c\src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\tables\table_r.c">
+      <Filter>..\ta-lib\c\src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\tables\table_s.c">
+      <Filter>..\ta-lib\c\src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\tables\table_t.c">
+      <Filter>..\ta-lib\c\src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\tables\table_u.c">
+      <Filter>..\ta-lib\c\src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\tables\table_v.c">
+      <Filter>..\ta-lib\c\src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\tables\table_w.c">
+      <Filter>..\ta-lib\c\src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\tables\table_x.c">
+      <Filter>..\ta-lib\c\src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\tables\table_y.c">
+      <Filter>..\ta-lib\c\src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_abstract\tables\table_z.c">
+      <Filter>..\ta-lib\c\src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_common\ta_global.c">
+      <Filter>..\ta-lib\c\src\ta_common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_common\ta_retcode.c">
+      <Filter>..\ta-lib\c\src\ta_common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_common\ta_version.c">
+      <Filter>..\ta-lib\c\src\ta_common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_ACCBANDS.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_ACOS.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_AD.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_ADD.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_ADOSC.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_ADX.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_ADXR.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_APO.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_AROON.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_AROONOSC.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_ASIN.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_ATAN.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_ATR.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_AVGDEV.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_AVGPRICE.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_BBANDS.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_BETA.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_BOP.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CCI.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDL2CROWS.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDL3BLACKCROWS.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDL3INSIDE.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDL3LINESTRIKE.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDL3OUTSIDE.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDL3STARSINSOUTH.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDL3WHITESOLDIERS.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLABANDONEDBABY.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLADVANCEBLOCK.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLBELTHOLD.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLBREAKAWAY.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLCLOSINGMARUBOZU.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLCONCEALBABYSWALL.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLCOUNTERATTACK.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLDARKCLOUDCOVER.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLDOJI.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLDOJISTAR.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLDRAGONFLYDOJI.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLENGULFING.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLEVENINGDOJISTAR.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLEVENINGSTAR.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLGAPSIDESIDEWHITE.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLGRAVESTONEDOJI.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLHAMMER.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLHANGINGMAN.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLHARAMI.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLHARAMICROSS.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLHIGHWAVE.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLHIKKAKE.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLHIKKAKEMOD.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLHOMINGPIGEON.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLIDENTICAL3CROWS.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLINNECK.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLINVERTEDHAMMER.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLKICKING.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLKICKINGBYLENGTH.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLLADDERBOTTOM.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLLONGLEGGEDDOJI.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLLONGLINE.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLMARUBOZU.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLMATCHINGLOW.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLMATHOLD.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLMORNINGDOJISTAR.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLMORNINGSTAR.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLONNECK.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLPIERCING.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLRICKSHAWMAN.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLRISEFALL3METHODS.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLSEPARATINGLINES.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLSHOOTINGSTAR.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLSHORTLINE.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLSPINNINGTOP.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLSTALLEDPATTERN.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLSTICKSANDWICH.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLTAKURI.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLTASUKIGAP.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLTHRUSTING.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLTRISTAR.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLUNIQUE3RIVER.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLUPSIDEGAP2CROWS.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CDLXSIDEGAP3METHODS.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CEIL.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CMO.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_CORREL.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_COS.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_COSH.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_DEMA.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_DIV.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_DX.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_EMA.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_EXP.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_FLOOR.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_HT_DCPERIOD.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_HT_DCPHASE.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_HT_PHASOR.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_HT_SINE.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_HT_TRENDLINE.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_HT_TRENDMODE.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_IMI.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_KAMA.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_LINEARREG_ANGLE.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_LINEARREG_INTERCEPT.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_LINEARREG_SLOPE.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_LINEARREG.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_LN.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_LOG10.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_MA.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_MACD.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_MACDEXT.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_MACDFIX.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_MAMA.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_MAVP.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_MAX.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_MAXINDEX.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_MEDPRICE.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_MFI.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_MIDPOINT.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_MIDPRICE.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_MIN.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_MININDEX.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_MINMAX.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_MINMAXINDEX.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_MINUS_DI.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_MINUS_DM.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_MOM.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_MULT.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_NATR.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_NVI.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_OBV.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_PLUS_DI.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_PLUS_DM.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_PPO.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_PVI.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_ROC.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_ROCP.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_ROCR.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_ROCR100.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_RSI.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_SAR.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_SAREXT.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_SIN.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_SINH.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_SMA.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_SQRT.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_STDDEV.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_STOCH.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_STOCHF.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_STOCHRSI.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_SUB.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_SUM.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_T3.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_TAN.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_TANH.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_TEMA.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_TRANGE.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_TRIMA.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_TRIX.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_TSF.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_TYPPRICE.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_ULTOSC.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_utility.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_VAR.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_WCLPRICE.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_WILLR.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ta-lib\c\src\ta_func\ta_WMA.c">
+      <Filter>..\ta-lib\c\src\ta_func</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\talib-binding.generated.cc">
+      <Filter>..\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files\nodejs\node_modules\npm\node_modules\node-gyp\src\win_delay_load_hook.cc">
+      <Filter>C:\Program Files\nodejs\node_modules\npm\node_modules\node-gyp\src</Filter>
+    </ClCompile>
+    <None Include="..\binding.gyp">
+      <Filter>..</Filter>
+    </None>
+  </ItemGroup>
+</Project>
